@@ -1,5 +1,9 @@
 # Cisco_Nexus-9k+7k_VPC_and_FabricPath_Lab
+
+قبل البدء لقد وضعت ملف الهيكل او البيئه التي سأقوم بشرحها في الأسفل :
+
 تطبيق عملي لبروتوكول vpc وربطه مع بروتوكول fapricpath في بيئه عمليه بأستخدام برنامج EVE-NG 
+
 
 ![image](https://github.com/user-attachments/assets/0dceb8c8-70b0-41f8-8b2c-1e2531987c29)
 
@@ -413,3 +417,9 @@ copy running-config startup-config
 wr
  ```
 وفي الختام اتمنى أن أكون قد قدمت الفائده المرجوه. شكرا لكم "_"
+
+ملف الهيكل الذي قمت بعمله:
+لتحميل الملف:
+[_Exports_unetlab_export-20241012-093343.zip](https://github.com/user-attachments/files/21056482/_Exports_unetlab_export-20241012-093343.zip)
+
+
