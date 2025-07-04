@@ -9,19 +9,19 @@
 
 راح نطبق على اجهزه 9k+7k بعض الاوامر لتهيئة الاجهزة من الضروري القيام بها بعد تشغيل الاجهزه 
 
-
-`continue with Power On Auto Provisioning (yes/skip/no)[no]: yes
-
+```cisco
+continue with Power On Auto Provisioning (yes/skip/no)[no]: yes
+```
 هذا الامر لكي لا تضطر الى ادخال كلمة سر معقدة:
-
+```cisco
 Do you want to enforce secure password standard (yes/no) [y]: no
 
 Enter the password for "admin": admin
 
 Confirm the password for "admin": admin
 
-Would you like to enter the basic configuration dialog (yes/no): no`
-
+Would you like to enter the basic configuration dialog (yes/no): no
+```
 بعدها قم بكتابه الأمر
 ```cisco
 switch# dir
@@ -422,4 +422,4 @@ wr
 لتحميل الملف:
 [_Exports_unetlab_export-20241012-093343.zip](https://github.com/user-attachments/files/21056482/_Exports_unetlab_export-20241012-093343.zip)
 
-
+تنوي
