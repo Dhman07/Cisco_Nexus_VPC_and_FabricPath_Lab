@@ -34,7 +34,7 @@ switch# dir
 switch(config)# boot nxos bootflash: nxos.7.0.3.I7.4.bin
 switch(config)# copy running-config startup-config
 ```
-سوف يظهر لك هذا العداد الذي يوضح ان عملية النسخ اكتملة
+سوف يظهر لك هذا العداد الذي يوضح ان عملية النسخ اكتملت
 
 [########################################] 100%
 
