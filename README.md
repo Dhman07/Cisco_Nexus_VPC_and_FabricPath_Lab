@@ -408,6 +408,7 @@ ip 192.168.1.6/24
 save
 ```
  لا تنسا تحفظ جميع الاعدادات على 7k و Sw2:
+
 #7k
 ```cisco
 copy running-config startup-config
@@ -422,4 +423,4 @@ wr
 لتحميل الملف:
 [_Exports_unetlab_export-20241012-093343.zip](https://github.com/user-attachments/files/21056482/_Exports_unetlab_export-20241012-093343.zip)
 
-تنوي
+'تنوية' عند تحميل الملف يرجى عدم فك الضغط من الملف يتم الدخول على برنامج EVE-NG ومن القائمة تجد خيار Import قم بتحميل الملف المضغوط وفتحة.
