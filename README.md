@@ -1,10 +1,15 @@
 # Cisco_Nexus-9k+7k_VPC_and_FabricPath_Lab
 تطبيق عملي لبروتوكول vpc وربطه مع بروتوكول fapricpath في بيئه عمليه بأستخدام برنامج EVE-NG 
+
 ![image](https://github.com/user-attachments/assets/0dceb8c8-70b0-41f8-8b2c-1e2531987c29)
+
 راح نطبق على اجهزه 9k+7k بعض الاوامر لتهيئة الاجهزة من الضروري القيام بها بعد تشغيل الاجهزه 
 
+
 `continue with Power On Auto Provisioning (yes/skip/no)[no]: yes
-هذا الامر لكي لا تضطر الى ادخال كلمة سر معقدة
+
+هذا الامر لكي لا تضطر الى ادخال كلمة سر معقدة:
+
 Do you want to enforce secure password standard (yes/no) [y]: no
 
 Enter the password for "admin": admin
